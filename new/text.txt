@@ -1,5 +1,0 @@
-1- 6 Please note that the returned line should include the terminating \n character - 4444
-1- 7 except if the end of file was reached and does not end with a \n character. - 5555
-1- 8 Your header file get_next_line.h must at least contain the prototype of the - 6666
-1- 9 get_next_line() function. - 7777
-1- 10 Add all the helper functions you need in the get_next_line_utils.c file. - 8888
